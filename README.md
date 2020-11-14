@@ -11,10 +11,7 @@
 
 
 ### Connect with me:
-<br />
-<br />
 - Primary Email address: nafeewalee@gmail.com
-
 [<img align="left" alt="NafeeWalee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="NafeeWalee | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="NafeeWalee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -40,9 +37,7 @@
 [<img align="left" alt="HTML5" width="36px" src="https://www.spyder-ide.org/static/images/spyder-logo.svg?h=946d9158" />][spyder]
 
 <br />
-<br />
-<br />
-<br />
+<br /><br /><br />
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Walee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NafeeWalee&show_icons=true&hide_border=true" />
