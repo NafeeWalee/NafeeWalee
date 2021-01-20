@@ -23,7 +23,7 @@
 [<img align="left" alt="Android Studio" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" />][as]
 [<img align="left" alt="XCode" width="36px" src="https://icons.iconarchive.com/icons/blackvariant/button-ui-app-pack-two/512/XCode-icon.png" />][xc]
 [<img align="left" alt="Flutter" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />][flutter]
-[<img align="left" alt="Dart" width="36px" src="https://avatars0.githubusercontent.com/u/1609975?s=280&v=4" />][dart]
+[<img align="left" alt="Dart" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][dart]
 [<img align="left" alt="Firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
 [<img align="left" alt="GraphQL" width="36px" src="https://symphony.is/sites/default/files/blog/2019-02/og_image.png" />][gql]
 [<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
