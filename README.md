@@ -1,17 +1,19 @@
-### Hi there, I'm Walee - aka [Pure][website] 👋
+### Hi there, Walee is here [IGN:Pure] & I'm a Flutter Developer!! 👋
+My name is Erik Hanchett and I'm a full stack developer!
 
+[![](https://github.com/NafeeWalee/NafeeWalee/blob/master/Reanimated%20Madara.gif)](#)
 
-[![](https://github.com/NafeeWalee/NafeeWalee/blob/master/dino.gif)](#)
+- 🔭 I’m currently working on ... something related to flutter!
+- ⚡ I’m learning everything about flutter.
+- 👯 I'm an employee at AndIT software company in Khulna, Bangladesh.
+- FunFact: If you call me Wall-E, I'll call you Eva (but of course not out loud)
 
-## I'm a Flutter Developer!!
-
-- 🔭 I just launched my first epic github profile (14th Nov, 2020)!
-- ⚡ I’m currently learning everything about flutter
-- 👯 I'm an employee at AndIT software company
-- Fun fact: Jungle/Top pref on League Of Legends (MasterYi Main)!
+My journey to Flutter Development:
+My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About an year ago (18th March, 2020) I switched from Native (Java) to Flutter development. Since then, I'm in love with flutter. In my (never ending) adventure of learning flutter, I have experienced countless difficulties and successfully overcame all of them in time (i.e. responsive application & layout adaptiveness, data scaling, modelling & custom widgets, REST API creation & integration ,dealing with countless hours of ERD & DFD creation, google play & iOS documentation preparation & handling app submission).
 
 
 ### Connect with me:
+<br />
 - Primary Email address: nafeewalee@gmail.com
 [<img align="left" alt="NafeeWalee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="NafeeWalee | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
