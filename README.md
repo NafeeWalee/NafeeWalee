@@ -18,6 +18,7 @@ My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About 
 [<img align="left" alt="NafeeWalee | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
 
 <br />
+<br />
 - Primary Email address: nafeewalee@gmail.com
 <br />
 - Secondary Email address: naw.andit@gmail.com
@@ -42,6 +43,8 @@ My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About 
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Walee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NafeeWalee&show_icons=true&theme=radical&hide_border=false" />
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
