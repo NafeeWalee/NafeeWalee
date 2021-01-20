@@ -13,9 +13,9 @@ My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About 
 
 ### Connect with me:
 
-[<img align="left" alt="NafeeWalee" width="22px" src="https://lh3.googleusercontent.com/proxy/v-HsGSGbimIVNrGVX-G33AiXhQVgIRxbjmITSadS-WNGzkau_VeqUWNr1t8ROpr41_OLJ4ex1_8XlsTcio062iKVj8NX91xFb8LZ" />][website]
+[<img align="left" alt="NafeeWalee | Blogger" width="22px" src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png" />][website]
 [<img align="left" alt="NafeeWalee | Facebook" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/facebook-logo-2019-1597680-1350125.png" />][facebook]
-[<img align="left" alt="NafeeWalee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="NafeeWalee | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
 
 <br />
 - Primary Email address: nafeewalee@gmail.com
