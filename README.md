@@ -13,8 +13,8 @@ My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About 
 
 ### Connect with me:
 
-[<img align="left" alt="NafeeWalee" width="22px" color="#ffffff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="NafeeWalee | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="NafeeWalee" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/facebook/facebook.png" />][website]
+[<img align="left" alt="NafeeWalee | Facebook" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/facebook/facebook.png" />][facebook]
 [<img align="left" alt="NafeeWalee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
