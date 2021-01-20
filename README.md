@@ -1,6 +1,7 @@
 ### Hi there, I'm Walee - aka [Pure][website] 👋
 
-[![Website](https://1.bp.blogspot.com/-HqmoT8k5KNU/XeQQyd71-CI/AAAAAAAAClc/tQNnn5-PULcjFwRoyXwIL1QV8TjCdP2ggCPcBGAYYCw/s1600/nap.png)](https://purenafee.blogspot.com/)
+
+[![](https://github.com/NafeeWalee/NafeeWalee/blob/master/dino.gif)](#)
 
 ## I'm a Flutter Developer!!
 
