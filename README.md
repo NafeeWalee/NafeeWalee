@@ -41,6 +41,7 @@ My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About 
 <br />
 
 <summary>:zap::zap: GitHub Stats :zap: :zap:</summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
