@@ -48,7 +48,6 @@
 [website]: https://purenafee.blogspot.com
 [youtube]: https://www.youtube.com/channel/UCBcd-lf-Z37jMS6iOKGAFcw
 [facebook]: https://www.facebook.com/MisterPureHeart
-
 [as]: https://www.google.com/search?q=androidstudio
 [xc]: https://www.google.com/search?q=xcode
 [dart]: https://www.google.com/search?q=dart
