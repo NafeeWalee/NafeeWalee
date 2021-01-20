@@ -13,12 +13,13 @@ My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About 
 
 ### Connect with me:
 
-[<img align="left" alt="NafeeWalee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="NafeeWalee" width="22px" color="#ffffff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="NafeeWalee | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="NafeeWalee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 - Primary Email address: nafeewalee@gmail.com
+- Secondary Email address: naw.andit@gmail.com
 <br />
 
 ### Languages and Tools:
@@ -39,9 +40,9 @@ My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About 
 
 
 <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="Walee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NafeeWalee&show_icons=true&hide_border=true" />
+<img align="left" alt="Walee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NafeeWalee&show_icons=true&theme=radical&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://purenafee.blogspot.com
