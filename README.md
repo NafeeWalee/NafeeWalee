@@ -1,5 +1,4 @@
 ### Hi there, Walee is here [IGN:Pure] & I'm a Flutter Developer!! 👋
-My name is Erik Hanchett and I'm a full stack developer!
 
 [![](https://github.com/NafeeWalee/NafeeWalee/blob/master/Reanimated%20Madara.gif)](#)
 
@@ -13,12 +12,13 @@ My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About 
 
 
 ### Connect with me:
-<br />
-- Primary Email address: nafeewalee@gmail.com
+
 [<img align="left" alt="NafeeWalee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="NafeeWalee | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="NafeeWalee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<br />
+- Primary Email address: nafeewalee@gmail.com
 <br />
 
 ### Languages and Tools:
