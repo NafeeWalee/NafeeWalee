@@ -14,7 +14,7 @@ My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About 
 ### Connect with me:
 
 [<img align="left" alt="NafeeWalee" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/facebook/facebook.png" />][website]
-[<img align="left" alt="NafeeWalee | Facebook" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/facebook/facebook.png" />][facebook]
+[<img align="left" alt="NafeeWalee | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" />][facebook]
 [<img align="left" alt="NafeeWalee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
