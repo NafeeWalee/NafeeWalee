@@ -48,19 +48,14 @@
 [website]: https://purenafee.blogspot.com
 [youtube]: https://www.youtube.com/channel/UCBcd-lf-Z37jMS6iOKGAFcw
 [facebook]: https://www.facebook.com/MisterPureHeart
-[vscode]: https://www.google.com/search?q=vscode
+
 [as]: https://www.google.com/search?q=androidstudio
 [xc]: https://www.google.com/search?q=xcode
-[spyder]: https://www.google.com/search?q=xcode
 [dart]: https://www.google.com/search?q=dart
 [flutter]: https://www.google.com/search?q=flutter
 [python]: https://www.google.com/search?q=python
-[js]: https://www.google.com/search?q=javascript
 [gql]: https://www.google.com/search?q=graphql
 [nodejs]: https://www.google.com/search?q=nodejs
 [mysql]: https://www.google.com/search?q=mysql
-[sql]: https://www.google.com/search?q=sql
 [mongodb]: https://www.google.com/search?q=mongodb
-[git]: https://www.google.com/search?q=mongodb
-[github]: https://www.google.com/search?q=mongodb
-[terminal]: https://www.google.com/search?q=mongodb
+[Firebase]: https://www.google.com/search?q=firebase
