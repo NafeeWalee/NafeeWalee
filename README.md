@@ -2,13 +2,11 @@
 
 [![](https://github.com/NafeeWalee/NafeeWalee/blob/master/Reanimated%20Madara.gif)](#)
 
-- 🔭 I’m currently working on ... something related to flutter!
-- ⚡ I’m learning everything about flutter.
+- ⚡ I’m currently working on ... something related to flutter!
 - 👯 I'm an employee at AndIT software company in Khulna, Bangladesh.
-- FunFact: If you call me Wall-E, I'll call you Eva (but of course not out loud)
 
 My journey to Flutter Development:
-My Name is Nafeeul Alam Walee. I'm a Hybrid Mobile Application Developer. About an year ago (18th March, 2020) I switched from Native (Java) to Flutter development. Since then, I'm in love with flutter. In my (never ending) adventure of learning flutter, I have experienced countless difficulties and successfully overcame all of them in time (i.e. responsive application & layout adaptiveness, data scaling, modelling & custom widgets, REST API creation & integration ,dealing with countless hours of ERD & DFD creation, google play & iOS documentation preparation & handling app submission).
+My Name is Nafeeul Alam Walee. I'm a Flutter Application Developer. About an year ago (18th March, 2020) I switched from Native (Java) to Flutter development. Since then, I'm in love with flutter. In my (never ending) adventure of learning flutter, I have experienced countless difficulties and successfully overcame all of them in time (i.e. responsive application & layout adaptiveness, data scaling, modelling & custom widgets, REST API creation & integration ,dealing with countless hours of ERD & DFD creation, google play & iOS documentation preparation & handling app submission).
 
 
 ### Connect with me:
