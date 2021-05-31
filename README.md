@@ -2,14 +2,15 @@
 
 [![](https://github.com/NafeeWalee/NafeeWalee/blob/master/Reanimated%20Madara.gif)](#)
 
+
+Short Story:
+A long time ago in a galaxy far, far away.... (18th March, 2020) I had to choose a side between react native and flutter. After a long council meeting, I took the path of the dart side. I switched from native Android development(Java) to Flutter development(Dart). Thenceforth, I have found my force is growing much stronger with flutter.
+
 - Fully devoted to flutter programming.
 - Freelancer in Bangladesh.
 - Pull Stacked developer (pulling stuffs from stackoverflow)
 - More than 20 projects apps are completed (mostly private projects)
 - ⚡ I’m currently working on ... something related to flutter...
-
-My journey to Flutter Development:
-My Name is Nafeeul Alam Walee. I'm a Flutter Application Developer. About an year ago (18th March, 2020) I switched from Native Android development(Java) to Flutter development. Since then, I'm in love with flutter.
 
 ### Connect with me:
 
