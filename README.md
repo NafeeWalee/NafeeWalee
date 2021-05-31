@@ -41,7 +41,7 @@ A long time ago in a galaxy far, far away.... (18th March, 2020) I had to choose
 
 <summary>:zap::zap: GitHub Stats :zap: :zap:</summary>
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee&layout=compact)]
 
 [website]: https://purenafee.blogspot.com
 [youtube]: https://www.youtube.com/channel/UCBcd-lf-Z37jMS6iOKGAFcw
