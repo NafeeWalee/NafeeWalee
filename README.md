@@ -1,6 +1,6 @@
 ### Hi there, Walee is here.. 👋
 
-[![](https://github.com/NafeeWalee/NafeeWalee/blob/master/Reanimated%20Madara.gif)](#)
+[![](https://github.com/NafeeWalee/NafeeWalee/blob/master/dartSide.gif)](#)
 
 
 Short Story:
