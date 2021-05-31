@@ -43,6 +43,9 @@ A long time ago in a galaxy far, far away.... (18th March, 2020) I had to choose
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee&layout=compact)]
 
+![Nafee's GitHub stats](https://github-readme-stats.vercel.app/api?username=NafeeWalee&show_icons=true&theme=radical)
+
+
 [website]: https://purenafee.blogspot.com
 [youtube]: https://www.youtube.com/channel/UCBcd-lf-Z37jMS6iOKGAFcw
 [facebook]: https://www.facebook.com/MisterPureHeart
