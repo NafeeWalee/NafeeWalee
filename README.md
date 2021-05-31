@@ -1,13 +1,15 @@
-### Hi there, Walee is here [IGN:Pure] & I'm a Flutter Developer!! 👋
+### Hi there, Walee is here.. 👋
 
 [![](https://github.com/NafeeWalee/NafeeWalee/blob/master/Reanimated%20Madara.gif)](#)
 
-- ⚡ I’m currently working on ... something related to flutter!
-- 👯 I'm an employee at AndIT software company in Khulna, Bangladesh.
+- Fully devoted to flutter programming.
+- Freelancer in Bangladesh.
+- Pull Stacked developer (pulling stuffs from stackoverflow)
+- More than 20 projects apps are completed (mostly private projects)
+- ⚡ I’m currently working on ... something related to flutter...
 
 My journey to Flutter Development:
-My Name is Nafeeul Alam Walee. I'm a Flutter Application Developer. About an year ago (18th March, 2020) I switched from Native (Java) to Flutter development. Since then, I'm in love with flutter. In my (never ending) adventure of learning flutter, I have experienced countless difficulties and successfully overcame all of them in time (i.e. responsive application & layout adaptiveness, data scaling, modelling & custom widgets, REST API creation & integration ,dealing with countless hours of ERD & DFD creation, google play & iOS documentation preparation & handling app submission).
-
+My Name is Nafeeul Alam Walee. I'm a Flutter Application Developer. About an year ago (18th March, 2020) I switched from Native Android development(Java) to Flutter development. Since then, I'm in love with flutter.
 
 ### Connect with me:
 
@@ -18,8 +20,6 @@ My Name is Nafeeul Alam Walee. I'm a Flutter Application Developer. About an yea
 <br />
 <br />
 - Primary Email address: nafeewalee@gmail.com
-<br />
-- Secondary Email address: naw.andit@gmail.com
 <br />
 
 ### Languages and Tools:
@@ -39,17 +39,8 @@ My Name is Nafeeul Alam Walee. I'm a Flutter Application Developer. About an yea
 <br />
 
 <summary>:zap::zap: GitHub Stats :zap: :zap:</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
-
-<img align="left" alt="Walee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NafeeWalee&show_icons=true&theme=radical&hide_border=false" />
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://purenafee.blogspot.com
 [youtube]: https://www.youtube.com/channel/UCBcd-lf-Z37jMS6iOKGAFcw
