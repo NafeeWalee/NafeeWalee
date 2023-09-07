@@ -7,7 +7,6 @@ Short Story:
 A long time ago in a galaxy far, far away.... (18th March, 2020) I had to choose a side between react native and flutter. After a long council meeting, I took the path of the dart side. I switched from native Android development(Java) to Flutter development(Dart). Thenceforth, I have found my force is growing much stronger by the power of flutter.
 
 - Fully devoted to flutter programming.
-- Freelancer in Bangladesh.
 - Pull Stack developer (pulling stuffs from stackoverflow)
 - ⚡ I’m currently working on ... something related to flutter...
 
