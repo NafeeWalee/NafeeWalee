@@ -13,9 +13,7 @@ the **force** has grown stronger ever since. 💙
 ### 👨‍💻 Who am I?
 - 🧠 Graduate Assistant @ **Georgia Southern University**  
 - 🎓 MSc in Information Technology *(Graduating May 2025)*  
-- 🏆 **1st Place** – Gulfstream Best Research in IT  
-- 🥈 **2nd Place** – SALT Computing Awards  
-- 📱 Ex-Mobile Developer @ **Monocle Group**, **Long Software LLC**, **AndIT**  
+- 📱 Ex-Mobile Developer @ **Monocle**, **Long Software LLC**, **AndIT**  
 - 🧪 Researcher in **Generative AI**, **Object Detection**, & **Real-Time Computer Vision**
 
 ---
@@ -53,12 +51,14 @@ the **force** has grown stronger ever since. 💙
 
 ---
 
-### 🤓 Fun Facts
-- 🧲 Proud **Pull Stack Developer** (StackOverflow = my daily caffeine ☕)  
+### 🛠 Professional Snapshot
 - 📈 Built apps that led to **40% growth** in client adoption  
 - ✍️ Published **6+ research papers** in under 16 months  
-- 🎯 Passionate about blending **tech + creativity** to solve real-world problems
-
+- 🎯 Passionate about blending **tech + creativity** to solve real-world problems  
+- 🌍 Developed apps used across food delivery, retail, and education sectors
+- 🏆 Winner of multiple research awards (Gulfstream & SALT Computing Awards)
+- ⚡ Prototyping real-time AI tools with Generative Models
+  
 ---
 
 ### ⚡ GitHub Stats
