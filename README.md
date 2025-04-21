@@ -22,10 +22,16 @@ From native Android development (Java) to crafting cross-platform experiences wi
 
 <br />
 
-🧰 ###Tech Stack
-Languages: Dart, Java, Python, C/C++, JavaScript, Node.js, TypeScript
-Frameworks: Flutter, TensorFlow, OpenCV, Firebase, GetX, MVVM, GraphQL
-Tools: Firebase, Cloud Firestore, REST API, GitHub, BitBucket, Figma
+### Tech Stack
+Languages:
+Dart, Java, Python, C/C++, JavaScript, TypeScript, Node.js
+
+Frameworks & Libraries:
+Flutter, TensorFlow, OpenCV, Firebase, GetX, MVVM, GraphQL
+
+Tools & Platforms:
+Firebase, Cloud Firestore, REST API, GitHub, BitBucket, Figma, Google Cloud, OpenAI API
+
 Specialties:
 
 Full-stack mobile development
@@ -40,10 +46,13 @@ Cross-platform app delivery (Android / iOS / Web)
 <br />
 
 
-🔥 ### Current Focus
+### Current Focus
 ⚡ Building production-ready Flutter apps
+
 ⚡ Developing AI-powered tools for automation
+
 ⚡ Experimenting with real-time code generation and generative visualizations
+
 ⚡ Working on an AI circuit prototyping system & fraud detection models
 
 
