@@ -1,86 +1,85 @@
-### Hi there, Walee is here.. 👋
+### Hi there, Walee is here... 👋
 
 [![](https://github.com/NafeeWalee/NafeeWalee/blob/master/dartSide.gif)](#)
 
+🚀 **A long time ago in a galaxy far, far away…** *(March 18, 2020)*  
+I was faced with a difficult choice: **React Native** or **Flutter**.  
+After a long council meeting, I embraced the **Dart Side**. 🌌  
+From native Android (Java) to cross-platform Flutter apps,  
+the **force** has grown stronger ever since. 💙
 
-🚀 A long time ago in a galaxy far, far away… (March 18, 2020)
-I was faced with a difficult choice: React Native or Flutter. After a long council meeting, I embraced the Dart Side. 🌌
-From native Android development (Java) to crafting cross-platform experiences with Flutter, the force has grown stronger ever since. 💙
+---
 
-<br />
+### 👨‍💻 Who am I?
+- 🧠 Graduate Assistant @ **Georgia Southern University**  
+- 🎓 MSc in Information Technology *(Graduating May 2025)*  
+- 🏆 **1st Place** – Gulfstream Best Research in IT  
+- 🥈 **2nd Place** – SALT Computing Awards  
+- 📱 Ex-Mobile Developer @ **Monocle Group**, **Long Software LLC**, **AndIT**  
+- 🧪 Researcher in **Generative AI**, **Object Detection**, & **Real-Time Computer Vision**
 
-👨‍💻 Who am I?
-🧠 Graduate Assistant @ Georgia Southern University
+---
 
-🎓 MSc in Information Technology (Graduating May 2025)
+### 🧰 Tech Stack
 
-🏆 Multi-award-winning researcher (1st place: Gulfstream - Best Research in IT)
+**Languages:**  
+`Dart` • `Java` • `Python` • `C/C++` • `JavaScript` • `TypeScript` • `Node.js`  
 
-📱 Ex-Mobile Developer @ Monocle Group, Long Software LLC, AndIT
+**Frameworks & Libraries:**  
+`Flutter` • `TensorFlow` • `OpenCV` • `Firebase` • `GetX` • `MVVM` • `GraphQL`
 
-🛠 AI researcher focusing on Generative AI, Object Detection, and Real-time Computer Vision
+**Tools & Platforms:**  
+`Firebase` • `Cloud Firestore` • `REST APIs` • `GitHub` • `BitBucket` • `Figma` • `Google Cloud` • `OpenAI API`
 
-<br />
+---
 
-### Tech Stack
-Languages:
-Dart, Java, Python, C/C++, JavaScript, TypeScript, Node.js
+### 💡 Specialties
+- 📱 Full-stack **mobile app development** (Flutter, Android, Web)  
+- 🧠 **AI/ML systems** (CNNs, fraud & wildfire detection, real-time vision)  
+- 🤖 **Generative AI & LLM integration**  
+  - Code generation & circuit prototyping  
+  - AI assistant tools for education and automation  
+- 📊 Deep learning with **real-time inference**, **PSNR/SSIM**, and **AUC evaluation**  
+- 🎨 UI/UX design with **Google Fonts**, custom themes & smooth animations  
+- 🔧 Scalable architecture using **MVVM**, **GetX**, and **modular APIs**
 
-Frameworks & Libraries:
-Flutter, TensorFlow, OpenCV, Firebase, GetX, MVVM, GraphQL
+---
 
-Tools & Platforms:
-Firebase, Cloud Firestore, REST API, GitHub, BitBucket, Figma, Google Cloud, OpenAI API
+### 🚀 Current Focus
+- Building production-ready **Flutter apps**  
+- Developing **AI-powered automation** tools  
+- Experimenting with **generative visualizations & code synthesis**  
+- Deploying **circuit prototyping systems & detection models** in real-time
 
-Specialties:
+---
 
-Full-stack mobile development
+### 🤓 Fun Facts
+- 🧲 Proud **Pull Stack Developer** (StackOverflow = my daily caffeine ☕)  
+- 📈 Built apps that led to **40% growth** in client adoption  
+- ✍️ Published **6+ research papers** in under 16 months  
+- 🎯 Passionate about blending **tech + creativity** to solve real-world problems
 
-Real-time AI systems
+---
 
-LLM-based assistant integration
-
-UI/UX design with Google Fonts & custom themes
-
-Cross-platform app delivery (Android / iOS / Web)
-<br />
-
-
-### Current Focus
-⚡ Building production-ready Flutter apps
-
-⚡ Developing AI-powered tools for automation
-
-⚡ Experimenting with real-time code generation and generative visualizations
-
-⚡ Working on an AI circuit prototyping system & fraud detection models
-
-
-### Fun Facts
-🧲 “Pull Stack Developer” (I may copy from StackOverflow occasionally)
-
-✨ Built apps that contributed to 40% client growth in commercial sectors
-
-🧪 Published 6+ research papers in 16 months
-
-🎯 Passionate about blending tech + creativity to solve real-world problems
-
-<br />
-- :zap::zap: GitHub Stats :zap: :zap:
-<br />
-
+### ⚡ GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafeeWalee&layout=compact)](https://github.com/NafeeWalee/github-readme-stats)
 
+---
 
-[portfolio]: https://portfolio-naw.web.app/
-[BSc Projects]: https://purenafee.blogspot.com
-[youtube]: https://www.youtube.com/channel/UCBcd-lf-Z37jMS6iOKGAFcw
-[as]: https://www.google.com/search?q=androidstudio
-[xc]: https://www.google.com/search?q=xcode
-[dart]: https://www.google.com/search?q=dart
-[flutter]: https://www.google.com/search?q=flutter
-[gql]: https://www.google.com/search?q=graphql
-[nodejs]: https://www.google.com/search?q=nodejs
-[mysql]: https://www.google.com/search?q=mysql
-[mongodb]: https://www.google.com/search?q=mongodb
-[Firebase]: https://www.google.com/search?q=firebase
+### 🌐 Also Find Me In
+- 🔗 **Portfolio Website** → [portfolio-naw.web.app](https://portfolio-naw.web.app/)
+- 🎓 **BSc Projects Blog** → [purenafee.blogspot.com](https://purenafee.blogspot.com)
+- 📺 **YouTube Channel** → [@UCBcd-lf-Z37jMS6iOKGAFcw](https://www.youtube.com/channel/UCBcd-lf-Z37jMS6iOKGAFcw)
+
+---
+
+<!-- Tech keywords for search indexing -->
+[flutter]: https://www.google.com/search?q=flutter  
+[dart]: https://www.google.com/search?q=dart  
+[graphql]: https://www.google.com/search?q=graphql  
+[nodejs]: https://www.google.com/search?q=nodejs  
+[mysql]: https://www.google.com/search?q=mysql  
+[mongodb]: https://www.google.com/search?q=mongodb  
+[firebase]: https://www.google.com/search?q=firebase  
+[android studio]: https://www.google.com/search?q=androidstudio  
+[xcode]: https://www.google.com/search?q=xcode  
